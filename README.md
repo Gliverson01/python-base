@@ -1,1 +1,2 @@
-# python-base
+# Python BASE
+Fiz este treinamento em Python, com uma duração estimada de 64 horas, o curso abrange desde conceitos fundamentais de programação até a criação de projetos práticos. O conteúdo inclui teoria básica de programação, instalação e configuração do ambiente Python, escolha de um editor de código e a criação do primeiro script. Ao longo do curso, os participantes desenvolverão vários programas pequenos, explorando as principais funcionalidades do Python, e também terão a oportunidade de criar um projeto completo, seguindo as melhores práticas do mercado.
